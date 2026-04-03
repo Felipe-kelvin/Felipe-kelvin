@@ -1,16 +1,59 @@
-## Hi there 👋
+#  Olá, eu sou o Felipe Kelvin
 
-<!--
-**Felipe-kelvin/Felipe-kelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End  
+🎓 Estudante de Engenharia de Software  
+🚀 Focado em criar sistemas web funcionais  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou desenvolvedor front-end com foco em JavaScript e React, criando aplicações web com foco em usabilidade e resolução de problemas reais.
+
+Tenho experiência com projetos próprios, incluindo um sistema de gestão financeira com autenticação de usuários e integração com Firebase.
+
+Atualmente estou cursando:
+- 📍 Engenharia de Software
+- 📍 Análise e Desenvolvimento de Sistemas (ADS)
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- React.js  
+- Firebase  
+- Node.js
+- APIs
+- Git e GitHub  
+
+---
+
+## 💼 Projetos em destaque
+
+### 💰 Sistema de Gestão Financeira
+Sistema web para controle de entradas e saídas financeiras, com autenticação de usuários e dados individuais.
+
+🔹 Funcionalidades:
+- Cadastro e login de usuários  
+- Controle financeiro por usuário  
+- Armazenamento em nuvem com Firebase  
+
+🔗 Em breve: link do projeto  
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/felipe-kelvin/
+- 📧 Email: felipekelvin087@gmail.com
+
+---
+
+## 🎯 Objetivo
+
+Buscando oportunidade de estágio como Desenvolvedor Front-End para aplicar e evoluir minhas habilidades em projetos reais.
+              
+---
