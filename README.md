@@ -1,7 +1,7 @@
 #  Olá, eu sou o Felipe Kelvin
 
 💻 Desenvolvedor Front-End  
-🎓 Estudante de Engenharia de Software  
+🎓 Estudante de Engenharia de Software e ADS
 🚀 Focado em criar sistemas web funcionais  
 
 ---
