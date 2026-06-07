@@ -2,6 +2,26 @@
 
 💻 **Desenvolvedor Front-End** | 🎓 **Estudante de Engenharia de Software e ADS** | 🚀 **Apaixonado por criar experiências web incríveis**
 
+<div align="center">
+
+### 💻 Tecnologias & Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,firebase,git,github,vscode&perline=9)
+
+### 🎯 Proficiência por Tecnologia
+
+| Tecnologia | Proficiência | Experiência |
+|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ⭐⭐⭐⭐☆ | Intermediário |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ⭐⭐⭐⭐☆ | Intermediário |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ⭐⭐⭐☆☆ | Intermediário |
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat) | ⭐⭐☆☆☆ | Básico |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat) | ⭐⭐⭐☆☆ | Intermediário |
+| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) | ⭐⭐⭐☆☆ | Intermediário |
+| ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) | ⭐⭐⭐☆☆ | Intermediário |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat) | ⭐⭐⭐☆☆ | Intermediário |
+
+</div>
 ---
 
 ## 🚀 Sobre mim
@@ -70,6 +90,52 @@ Sistema robusto para gerenciar entradas e saídas financeiras com segurança de 
 - 📈 Sempre aprendendo novas tecnologias
 - 🤝 Aberto a colaborações e feedbacks
 
+<div align="center">
+
+### 🎯 Métricas de Desenvolvimento
+
+![GitHub followers](https://img.shields.io/github/followers/Felipe-kelvin?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Felipe-kelvin?style=social)
+
+<img src="https://komarev.com/ghpvc/?username=Felipe-kelvin&color=0ea5e9" alt="Felipe-kelvin" />
+
+### 🏆 Status & Atividade
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-Ativas-0ea5e9?style=for-the-badge&logo=github)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contribuidor-10b981?style=for-the-badge&logo=open-source-initiative)
+![Disponibilidade](https://img.shields.io/badge/Disponível%20para-Projetos-ec4899?style=for-the-badge&logo=rocket)
+
+### 💡 Foco & Compromisso
+
+| Foco | Status |
+|------|--------|
+| 🎯 Criando soluções reais | ✅ Ativo |
+| 📈 Aprendendo novas tech | ✅ Contínuo |
+| 🤝 Colaborações | ✅ Aberto |
+| 💻 Código limpo | ✅ Prioridade |
+
+### 🌱 Em Desenvolvimento
+
+![Estudando](https://img.shields.io/badge/Estudando-Padrões%20de%20Design-6366f1?style=flat-square&logo=books)
+![Estudando](https://img.shields.io/badge/Estudando-CI%2FCD-f59e0b?style=flat-square&logo=github-actions)
+![Estudando](https://img.shields.io/badge/Estudando-Acessibilidade-10b981?style=flat-square&logo=universalaccess)
+![Estudando](https://img.shields.io/badge/Estudando-Performance-ef4444?style=flat-square&logo=speedtest)
+
+### 🎓 Certificações & Conhecimento
+
+![HTML5](https://img.shields.io/badge/Level-Avançado-0ea5e9?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-Avançado-0ea5e9?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediário-f59e0b?style=flat-square)
+![React](https://img.shields.io/badge/React-Intermediário-f59e0b?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediário-f59e0b?style=flat-square)
+
+### 🔗 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Kelvin-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipe-kelvin/)
+[![GitHub](https://img.shields.io/badge/GitHub-Felipe--kelvin-181717?style=flat-square&logo=github)](https://github.com/Felipe-kelvin)
+[![Email](https://img.shields.io/badge/Email-felipekelvin087%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:felipekelvin087@gmail.com)
+
+</div>
 ---
 
 ## 📚 Atualmente Estudando
